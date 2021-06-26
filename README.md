@@ -14,7 +14,6 @@ E pra me ajudar estou cercado de amigos e parceiros da área que incentivam e au
 
 
 
-
 <br> <hr>
 <a target="_blank" href="https://www.linkedin.com/in/einstein-h-soares">
 
