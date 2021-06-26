@@ -3,12 +3,13 @@
 
 ### Olá Galerinha!
 
-Seja bem vindo ao meu perfil, Será um Prazer enorme em conhecê-lo! 
+Seja bem vindo ao meu perfil, 
 
 <br> eu sou Einstein,
 Estou no início dos meus estudos, e já estou facinado.
 E pra me ajudar estou cercado de amigos e parceiros da área que incentivam e auxiliam no desenvolvimento.
 
+Será um Prazer enorme em conhecê-lo! 
 
 
 
