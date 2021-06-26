@@ -1,8 +1,6 @@
 # Desenvolvedor a caminho!!
 
 
-! [texto alternativo] (https://i.ibb.co/4WkcRLs/wall-Git-Hubupdt.png)
-
 ### Olá Galerinha!
 
 Seja bem vindo ao meu perfil, Será um Prazer enorme em conhecê-lo! 
