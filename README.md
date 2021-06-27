@@ -7,7 +7,8 @@ Seja bem vindo ao meu perfil,
 
 <br> eu sou Einstein,
 Estou no início dos meus estudos, e já estou facinado.
-E pra me ajudar estou cercado de amigos e parceiros da área que incentivam e auxiliam no desenvolvimento.
+Por enquanto meus repositórios são apenas cases e testes utilizados nas aulas e cursos que estou fazendo, mas creio que logo logo oferecerei uma boa lógica de programação.
+Para me ajudar estou cercado de amigos e parceiros da área que me incentivam e auxiliam no desenvolvimento.
 
 Será um Prazer enorme em conhecê-lo! 
 
