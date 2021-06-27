@@ -39,6 +39,6 @@ Será um Prazer enorme em conhecê-lo!
 
 <p> <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=Eins10Week&show_icons=true&locale=en&layout=compact" alt = "Eins10Week" /> </p>
 
-<p> & nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=Eins10Week&show_icons=true&locale=en" alt = "Eins10Week" /> </p>
+<p> <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=Eins10Week&show_icons=true&locale=en" alt = "Eins10Week" /> </p>
 
 <hr>
