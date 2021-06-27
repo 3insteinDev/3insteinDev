@@ -32,3 +32,13 @@ Será um Prazer enorme em conhecê-lo!
   <img align = "center" alt = "gmail" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
   <br> <hr>
+
+  
+
+<hr>
+
+<p> <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=Eins10Week&show_icons=true&locale=en&layout=compact" alt = "Eins10Week" /> </p>
+
+<p> & nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=Eins10Week&show_icons=true&locale=en" alt = "Eins10Week" /> </p>
+
+<hr>
