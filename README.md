@@ -32,8 +32,8 @@ Será um Prazer enorme em conhecê-lo!
   <img align = "center" alt = "LinkdeIN" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>  
 
-<a target="_blank" href="mailto:einstein.hellmeister@gmail.com">
-  <img align = "center" alt = "gmail" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a target="_blank" href="mailto:einstein.dev@hotmail.com">
+  <img align = "center" alt = "Hotmail" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
   <br> <hr>
 
@@ -41,9 +41,9 @@ Será um Prazer enorme em conhecê-lo!
 
 <hr>
 
-<p> <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=3insteinDev&show_icons=true&locale=en&layout=compact" alt = "Eins10Week" /> </p>
+<p> <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=3insteinDev&show_icons=true&locale=en&layout=compact" alt = "3insteinDev" /> </p>
 
-<p> <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=3insteinDev&show_icons=true&locale=en" alt = "Eins10Week" /> </p>
+<p> <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=3insteinDev&show_icons=true&locale=en" alt = "3insteinDev" /> </p>
 
 <hr>
 
