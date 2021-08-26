@@ -33,7 +33,7 @@ Será um Prazer enorme em conhecê-lo!
 </a>  
 
 <a target="_blank" href="mailto:einstein.dev@hotmail.com">
-  <img align = "center" alt = "Hotmail" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img align = "center" alt = "hotmail" src = "https://img.shields.io/badge/hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
   <br> <hr>
 
