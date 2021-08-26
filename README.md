@@ -47,5 +47,3 @@ Será um Prazer enorme em conhecê-lo!
 
 <hr>
 
-<br> <hr>
-![til](./giphy.gif)
