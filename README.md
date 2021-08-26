@@ -13,7 +13,7 @@ Para me ajudar estou cercado de amigos e parceiros da área que me incentivam e 
 Será um Prazer enorme em conhecê-lo! 
 
 <br> <hr>
-<img src="https://giphy.com/embed/26tn33aiTi1jkl6H6.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+![til](./meugif.gif)
 
 
 
@@ -46,3 +46,6 @@ Será um Prazer enorme em conhecê-lo!
 <p> <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=3insteinDev&show_icons=true&locale=en" alt = "Eins10Week" /> </p>
 
 <hr>
+
+<br> <hr>
+![til](./giphy.gif)
