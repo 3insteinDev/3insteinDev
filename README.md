@@ -6,9 +6,32 @@
 Seja bem vindo ao meu perfil, 
 
 <br> eu sou Einstein,
-Estou no início dos meus estudos, e já estou facinado.
-Por enquanto meus repositórios são apenas cases e testes utilizados nas aulas e cursos que estou fazendo, mas creio que logo logo oferecerei uma boa lógica de programação.
-Para me ajudar estou cercado de amigos e parceiros da área que me incentivam e auxiliam no meu desenvolvimento.
+
+Há um ano decidi mudar de carreira, e assim dei início nos estudos na área de front-end.
+Comecei com a tríade base de front (HTML, CSS e JavaScript).
+Participando de bootcamps pela DIO, fazendo cursos com a Rocketseat e Curso em Vídeo(Guanabara).
+Em julho deste ano fui aprovado no Processo seletivo da SoulCode Academy, para o Bootcamp Integral em FullStack, e com o apoio da esposa, abri mão do emprego em que estava para me dedicar fulltime aos estudos.
+Neste BootCamp estamos recebendo conhecimento das seguintes tecnologias:
+HTML - CSS - BOOTSTRAP - JAVASCRIPT - JQUERY - NODE.JS - NOSQL - MONGODB - ANGULAR
+
+Em meus repositórios é possivel notar o avanço e desenvolvimento neste intervalo.
+
+<br> <hr>
+<a target="_blank" href="https://3insteindev.github.io/Netflix-Interface/">
+<br> <hr>
+<a target="_blank" href="https://3insteindev.github.io/Jogo-da-Cobrinha/">
+<br> <hr>
+<a target="_blank" href="https://3insteindev.github.io/SiteDeGames/">
+<br> <hr>
+<a target="_blank" href="https://3insteindev.github.io/SoulCoin/">
+<br> <hr>
+<a target="_blank" href="https://3insteindev.github.io/ONGAcordes/">
+
+e outros feitos em cursos.
+
+Pode fuçar a vontade, muitas coisas pra corrigir e melhorar, portanto aceito sugestões, correções, e indicações.
+
+
 
 Será um Prazer enorme em conhecê-lo! 
 
