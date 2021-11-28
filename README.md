@@ -17,7 +17,7 @@ HTML - CSS - BOOTSTRAP - JAVASCRIPT - JQUERY - NODE.JS - NOSQL - MONGODB - ANGUL
 Em meus repositórios é possivel notar o avanço e desenvolvimento neste intervalo.
 
 <br> <hr>
-<a target="_blank" href="https://3insteindev.github.io/Netflix-Interface/">Réplica Interface Netflix</a>
+<a  href="https://3insteindev.github.io/Netflix-Interface/">Réplica Interface Netflix</a>
 <br> <hr>
 <a target="_blank" href="https://3insteindev.github.io/Jogo-da-Cobrinha/">Jogo da Cobrinha</a>
 <br> <hr>
