@@ -17,15 +17,15 @@ HTML - CSS - BOOTSTRAP - JAVASCRIPT - JQUERY - NODE.JS - NOSQL - MONGODB - ANGUL
 Em meus repositórios é possivel notar o avanço e desenvolvimento neste intervalo.
 
 <br> <hr>
-<a target="_blank" href="https://3insteindev.github.io/Netflix-Interface/">
+<a target="_blank" href="https://3insteindev.github.io/Netflix-Interface/">Réplica Interface Netflix</a>
 <br> <hr>
-<a target="_blank" href="https://3insteindev.github.io/Jogo-da-Cobrinha/">
+<a target="_blank" href="https://3insteindev.github.io/Jogo-da-Cobrinha/">Jogo da Cobrinha</a>
 <br> <hr>
-<a target="_blank" href="https://3insteindev.github.io/SiteDeGames/">
+<a target="_blank" href="https://3insteindev.github.io/SiteDeGames/">Side de Jogos Online</a>
 <br> <hr>
-<a target="_blank" href="https://3insteindev.github.io/SoulCoin/">
+<a target="_blank" href="https://3insteindev.github.io/SoulCoin/">Site da Moeda SoulCoin</a>
 <br> <hr>
-<a target="_blank" href="https://3insteindev.github.io/ONGAcordes/">
+<a target="_blank" href="https://3insteindev.github.io/ONGAcordes/">Site da ONG Acordes</a>
 
 e outros feitos em cursos.
 
