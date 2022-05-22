@@ -7,14 +7,26 @@ Seja bem vindo ao meu perfil,
 
 <br> eu sou Einstein,
 
-Há um ano decidi mudar de carreira, e assim dei início nos estudos na área de front-end.
-Comecei com a tríade base de front (HTML, CSS e JavaScript).
-Participando de bootcamps pela DIO, fazendo cursos com a Rocketseat e Curso em Vídeo(Guanabara).
-Em julho deste ano fui aprovado no Processo seletivo da SoulCode Academy, para o Bootcamp Integral em FullStack, e com o apoio da esposa, abri mão do emprego em que estava para me dedicar fulltime aos estudos.
-Neste BootCamp estamos recebendo conhecimento das seguintes tecnologias:
-HTML - CSS - BOOTSTRAP - JAVASCRIPT - JQUERY - NODE.JS - NOSQL - MONGODB - ANGULAR
+Perfil Organizacional
+Analítico | Sociável | Trabalha em Equipe 
+Focado em Resultado | Sonhador | Desistir Jamais
 
-Em meus repositórios é possivel notar o avanço e desenvolvimento neste intervalo.
+Perfil Pessoal
+Jovem Cristão | Disposto | Apaixonador por Estudar | Conhecer pessoas 
+Lugares | Animais | Esportes | Tecnologia | Comunicação | Raciocínio | Lógica
+
+HABILIDADES E TECNOLOGIAS
+
+FRONT-END:  HTML - CSS - JAVASCRIPT 
+BIBLIOTECAS:  BOOTSTRAP  - JQUERY - TYPESCRIPT
+FRAMEWORKS: ANGULA JS - VUE JS
+BACK-END: NODE.JS - MYSQL - MONGODB - FIREBASE - JAVA - ECLIPSE - SPRING
+VERSIONAMENTO: GIT - GITHUB
+METODOLOGIAS: SCRUM - TRELLO - CANVA 
+PROTOTIPAGEM: FIGMA - ILLUSTRATOR - PHOTOSHOP
+
+Abaixo estão links de alguns repositórios que foi possível hospedar a aplicação aqui mesmo no GitHub.
+Além destas estão outras que possuem back-end, para rodar é necessário Firebase, Workbench e MongoDB.
 
 <br> 
 <a target="_blank" href="https://3insteindev.github.io/Netflix-Interface/">Réplica Interface Netflix</a>
@@ -27,7 +39,7 @@ Em meus repositórios é possivel notar o avanço e desenvolvimento neste interv
 <br> 
 <a target="_blank" href="https://3insteindev.github.io/ONGAcordes/">Site da ONG Acordes</a>
 
-e outros feitos em cursos.
+Sigo aprendendo.
 
 Pode fuçar a vontade, muitas coisas pra corrigir e melhorar, portanto aceito sugestões, correções, e indicações.
 
