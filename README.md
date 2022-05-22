@@ -5,28 +5,28 @@
 
 Seja bem vindo ao meu perfil, 
 
-<br> eu sou Einstein,
+<br> Eu sou Einstein,
 
 Perfil Organizacional
-Analítico | Sociável | Trabalha em Equipe 
-Focado em Resultado | Sonhador | Desistir Jamais
+<br>Analítico | Sociável | Trabalha em Equipe 
+<br>Focado em Resultado | Sonhador | Desistir Jamais
 
 Perfil Pessoal
-Jovem Cristão | Disposto | Apaixonador por Estudar | Conhecer pessoas 
-Lugares | Animais | Esportes | Tecnologia | Comunicação | Raciocínio | Lógica
+<br>Jovem Cristão | Disposto | Apaixonador por Estudar | Conhecer pessoas 
+<br>Lugares | Animais | Esportes | Tecnologia | Comunicação | Raciocínio | Lógica
 
 HABILIDADES E TECNOLOGIAS
 
-FRONT-END:  HTML - CSS - JAVASCRIPT 
-BIBLIOTECAS:  BOOTSTRAP  - JQUERY - TYPESCRIPT
-FRAMEWORKS: ANGULA JS - VUE JS
-BACK-END: NODE.JS - MYSQL - MONGODB - FIREBASE - JAVA - ECLIPSE - SPRING
-VERSIONAMENTO: GIT - GITHUB
-METODOLOGIAS: SCRUM - TRELLO - CANVA 
-PROTOTIPAGEM: FIGMA - ILLUSTRATOR - PHOTOSHOP
+<br>FRONT-END:  HTML - CSS - JAVASCRIPT 
+<br>BIBLIOTECAS:  BOOTSTRAP  - JQUERY - TYPESCRIPT
+<br>FRAMEWORKS: ANGULA JS - VUE JS
+<br>BACK-END: NODE.JS - MYSQL - MONGODB - FIREBASE - JAVA - ECLIPSE - SPRING
+<br>VERSIONAMENTO: GIT - GITHUB
+<br>METODOLOGIAS: SCRUM - TRELLO - CANVA 
+<br>PROTOTIPAGEM: FIGMA - ILLUSTRATOR - PHOTOSHOP
 
-Abaixo estão links de alguns repositórios que foi possível hospedar a aplicação aqui mesmo no GitHub.
-Além destas estão outras que possuem back-end, para rodar é necessário Firebase, Workbench e MongoDB.
+Abaixo estão links de alguns repositórios que foi possível hospedar a aplicação aqui mesmo no GitHub, por usar apenas a tríade.
+Além destas, estão outras que possuem back-end, que para rodar é necessário Firebase, Workbench ou MongoDB (dependendo do repositório).
 
 <br> 
 <a target="_blank" href="https://3insteindev.github.io/Netflix-Interface/">Réplica Interface Netflix</a>
