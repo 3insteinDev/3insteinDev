@@ -1,9 +1,9 @@
-# Desenvolvedor a caminho!!
+# Desenvolvedor no caminho!!
 
 
 ### Olá Galerinha!
 
-Seja bem vindo ao meu perfil, 
+Seja bem vindo ao meu perfil (atualizado 22/05/2022), 
 
 <br> Eu sou Einstein,
 
