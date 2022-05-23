@@ -1,11 +1,16 @@
 # Desenvolvedor no caminho!!
 
 
-### Olá Galerinha!
+### <h1 align="center">Olá Galerinha!</h1>
 
-Seja bem vindo ao meu perfil (atualizado 22/05/2022), 
+Seja bem vindo ao meu perfil (atualizado 23/05/2022), 
 
 <br> Eu sou Einstein,
+
+Sou Formado em Marketing e atualmente estudande de Sistemas para Internet.
+<br>Pela SoulCode Academy fui bolsista em dois Bootcamp:
+<br>-Desenvolvedor FullStack (740 horas)
+<br>-Aplicação em Java (240 horas)
 
 Perfil Organizacional
 <br>Analítico | Sociável | Trabalha em Equipe 
@@ -48,7 +53,7 @@ Pode fuçar a vontade, muitas coisas pra corrigir e melhorar, portanto aceito su
 Será um Prazer enorme em conhecê-lo! 
 
 <br> <hr>
-![til](./meump4.gif)
+<!-- ![til](./meump4.gif) -->
 
 
 
@@ -81,4 +86,14 @@ Será um Prazer enorme em conhecê-lo!
 <p> <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=3insteinDev&show_icons=true&locale=en" alt = "3insteinDev" /> </p>
 
 <hr>
+
+<p align="center">
+  <a href="https://github.com/stobertonf">
+    <img
+      align="center"
+      src="https://github-profile-trophy.vercel.app/?username=stobertonf&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
+    />
+  </a>
+</a>
+</p>
 
