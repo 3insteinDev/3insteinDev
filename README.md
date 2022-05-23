@@ -88,12 +88,15 @@ Será um Prazer enorme em conhecê-lo!
 <hr>
 
 <p align="center">
-  <a href="https://github.com/3insteindev">
+  <a href="https://github.com/3insteinDev">
     <img
       align="center"
-      src="https://github-profile-trophy.vercel.app/?username=3insteindevf&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=3insteinDev&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
     />
   </a>
 </a>
+</p>
+<p>
+<p align="left"> <a href="https://github.com/3insteindev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3insteinDev" alt="3insteinDev" /></a> </p>
 </p>
 
