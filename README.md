@@ -52,7 +52,7 @@ Pode fuçar a vontade, muitas coisas pra corrigir e melhorar, portanto aceito su
 
 Será um Prazer enorme em conhecê-lo! 
 
-<br> <hr>
+<!-- <br> <hr> -->
 <!-- ![til](./meump4.gif) -->
 
 
@@ -79,7 +79,6 @@ Será um Prazer enorme em conhecê-lo!
 
   
 
-<hr>
 
 <p> <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=3insteinDev&show_icons=true&locale=en&layout=compact" alt = "3insteinDev" /> </p>
 
