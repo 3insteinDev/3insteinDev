@@ -96,7 +96,5 @@ Será um Prazer enorme em conhecê-lo!
   </a>
 </a>
 </p>
-<p>
-<p align="left"> <a href="https://github.com/3insteindev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3insteinDev" alt="3insteinDev" /></a> </p>
-</p>
+
 
