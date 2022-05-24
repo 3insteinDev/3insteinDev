@@ -1,7 +1,7 @@
 # Desenvolvedor no caminho!!
 
 
-<h1 align="center">Olá Galerinha!</h1>
+## Olá Galerinha!
 
 Seja bem vindo ao meu perfil (atualizado 23/05/2022), 
 
