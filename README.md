@@ -7,7 +7,7 @@ Seja bem vindo ao meu perfil (atualizado 23/05/2022),
 
 <br> Eu sou Einstein,
 
-Sou Formado em Marketing e atualmente estudande de Sistemas para Internet.
+Sou Formado em Marketing e recem formado em Sistemas para Internet.
 <br>Pela SoulCode Academy fui bolsista em dois Bootcamp:
 <br>-Desenvolvedor FullStack (740 horas)
 <br>-Aplicação em Java (240 horas)
