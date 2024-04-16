@@ -3,7 +3,7 @@
 
 ## Olá Galerinha!
 
-Seja bem vindo ao meu perfil (atualizado 23/05/2022), 
+Seja bem vindo ao meu perfil (atualizado 20/01/2024), 
 
 <br> Eu sou Einstein,
 
@@ -11,6 +11,11 @@ Sou Formado em Marketing e recem formado em Sistemas para Internet.
 <br>Pela SoulCode Academy fui bolsista em dois Bootcamp:
 <br>-Desenvolvedor FullStack (740 horas)
 <br>-Aplicação em Java (240 horas)
+
+<br>Pela Pecege participei do Bootcamp TypeScript:
+<br>-Back-end com NestJs
+<br>-Front-end com React
+<br>-Banco de Dados Não Relacional - MongoDB
 
 Perfil Organizacional
 <br>Analítico | Sociável | Trabalha em Equipe 
