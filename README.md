@@ -39,17 +39,31 @@ Abaixo estão links de alguns repositórios que foi possível hospedar a aplica�
 Além destas, estão outras que possuem back-end, que para rodar é necessário Firebase, Workbench ou MongoDB (dependendo do repositório).
 
 <br> 
-<a target="_blank" href="https://3insteindev.github.io/Netflix-Interface/">Réplica Interface Netflix</a>
+## Aplicações Estáticas
 <br> 
-<a target="_blank" href="https://3insteindev.github.io/Jogo-da-Cobrinha/">Jogo da Cobrinha</a>
+<a target="_blank" href="https://3insteindev.github.io/Netflix-Interface/">Réplica Interface Netflix</a>
 <br> 
 <a target="_blank" href="https://3insteindev.github.io/SiteDeGames/">Side de Jogos Online</a>
 <br> 
+<a target="_blank" href="https://3insteindev.github.io/ONGAcordes/">Site da ONG Acordes</a>
+<br>
+## Aplicações com Iterações / CRUD / consumo de API / Banco de Dados
+<br>
+<a target="_blank" href="https://3insteindev.github.io/Jogo-da-Cobrinha/">Jogo da Cobrinha</a>
+<br> 
 <a target="_blank" href="https://3insteindev.github.io/SoulCoin/">Site da Moeda SoulCoin</a>
 <br> 
-<a target="_blank" href="https://3insteindev.github.io/ONGAcordes/">Site da ONG Acordes</a>
-<br> 
-<a target="_blank" href="https://3insteindev.github.io/previsao-do-tempo/)">Consumo da API - Consulta Clima por Cidade</a>
+<a target="_blank" href="https://3insteindev.github.io/previsao-do-tempo/">Consumo da API - Consulta Clima por Cidade</a>
+<br>
+<a target="_blank" href="https://github.com/3insteinDev/Banco-de-Talento/">SoulCode - Banco-de-Talento</a>
+<br>
+<a target="_blank" href="https://github.com/3insteinDev/Sistema-Hospitalar/">SoulCode - Sistema-Hospitalar</a>
+<br>
+<a target="_blank" href="https://github.com/3insteinDev/Sistema-para-Biblioteca/">SoulCode - Sistema-para-Biblioteca</a>
+<br>
+<a target="_blank" href="https://github.com/3insteinDev/aplicacao-completa">Aplicação Completa (Docker - Front - API - Banco de Dados)</a>
+<br>
+<a target="_blank" href="https://github.com/3insteinDev/Aplicacao-Bancaria">Aplicação Bancaria </a>
 <br>
 Sigo aprendendo.
 
