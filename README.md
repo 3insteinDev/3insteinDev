@@ -48,8 +48,6 @@ Além destas, estão outras que possuem back-end, que para rodar é necessário 
 <a target="_blank" href="https://3insteindev.github.io/ONGAcordes/">Site da ONG Acordes</a>
 <br>
 ## Aplicações com Iterações / CRUD / consumo de API / Banco de Dados
-<br>
-<a target="_blank" href="https://3insteindev.github.io/Jogo-da-Cobrinha/">Jogo da Cobrinha</a>
 <br> 
 <a target="_blank" href="https://3insteindev.github.io/SoulCoin/">Site da Moeda SoulCoin</a>
 <br> 
