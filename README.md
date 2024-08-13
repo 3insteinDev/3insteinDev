@@ -43,8 +43,6 @@ Além destas, estão outras que possuem back-end, que para rodar é necessário 
 <br> 
 <a target="_blank" href="https://3insteindev.github.io/Netflix-Interface/">Réplica Interface Netflix</a>
 <br> 
-<a target="_blank" href="https://3insteindev.github.io/SiteDeGames/">Side de Jogos Online</a>
-<br> 
 <a target="_blank" href="https://3insteindev.github.io/ONGAcordes/">Site da ONG Acordes</a>
 <br>
 ## Aplicações com Iterações / CRUD / consumo de API / Banco de Dados
@@ -63,7 +61,11 @@ Além destas, estão outras que possuem back-end, que para rodar é necessário 
 <br>
 <a target="_blank" href="https://github.com/3insteinDev/Aplicacao-Bancaria">Aplicação Bancaria </a>
 <br>
+
+
 Sigo aprendendo.
+
+
 
 Pode fuçar a vontade, muitas coisas pra corrigir e melhorar, portanto aceito sugestões, correções, e indicações.
 
@@ -83,16 +85,6 @@ Será um Prazer enorme em conhecê-lo!
 
 <img align = "center" alt = "Linkedin" color = "white" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
-</a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5519983972249">
-  <img align = "center" alt = "Whatsapp" color = "white" src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-   
-<a target="_blank" href="https://github.com/3insteinDev/">
-  <img align = "center" alt = "LinkdeIN" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>  
-
-<a target="_blank" href="mailto:einstein.dev@hotmail.com">
-  <img align = "center" alt = "hotmail" src = "https://img.shields.io/badge/hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
   <br> <hr>
 
