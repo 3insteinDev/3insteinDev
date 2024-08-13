@@ -3,11 +3,12 @@
 
 ## Olá Galerinha!
 
-Seja bem vindo ao meu perfil (atualizado 20/01/2024), 
+Seja bem vindo ao meu perfil, 
 
 <br> Eu sou Einstein,
 
 Sou Formado em Marketing e recem formado em Sistemas para Internet.
+
 <br>Pela SoulCode Academy fui bolsista em dois Bootcamp:
 <br>-Desenvolvedor FullStack (740 horas)
 <br>-Aplicação em Java (240 horas)
