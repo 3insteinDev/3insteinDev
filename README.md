@@ -50,6 +50,7 @@ Além destas, estão outras que possuem back-end, que para rodar é necessário 
 <a target="_blank" href="https://3insteindev.github.io/ONGAcordes/">Site da ONG Acordes</a>
 <br> 
 <a target="_blank" href="https://3insteindev.github.io/previsao-do-tempo/)">Consumo da API - Consulta Clima por Cidade</a>
+<br>
 Sigo aprendendo.
 
 Pode fuçar a vontade, muitas coisas pra corrigir e melhorar, portanto aceito sugestões, correções, e indicações.
