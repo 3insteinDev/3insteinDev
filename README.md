@@ -7,7 +7,7 @@ Seja bem vindo ao meu perfil,
 
 <br> Eu sou Einstein,
 
-Sou Formado em Marketing e recem formado em Sistemas para Internet.
+Sou Formado em Marketing e em Sistemas para Internet.
 
 <br>Pela SoulCode Academy fui bolsista em dois Bootcamp:
 <br>-Desenvolvedor FullStack (740 horas)
@@ -46,7 +46,7 @@ Além destas, estão outras que possuem back-end, que para rodar é necessário 
 <br> 
 <a target="_blank" href="https://3insteindev.github.io/ONGAcordes/">Site da ONG Acordes</a>
 <br>
-## Aplicações com Iterações / CRUD / consumo de API / Banco de Dados
+## Aplicações com Iterações / consumo de API / Banco de Dados
 <br> 
 <a target="_blank" href="https://3insteindev.github.io/SoulCoin/">Site da Moeda SoulCoin</a>
 <br> 
